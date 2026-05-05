@@ -14,9 +14,34 @@
         "name": "koikeasuka"
       },
       "source": "./skills/spike-support",
-      "skills": ["./"],
+      "skills": [
+        "./"
+      ],
       "category": "workflow",
-      "tags": ["workflow", "junior", "spike"]
+      "tags": [
+        "workflow",
+        "junior",
+        "spike"
+      ]
+    },
+    {
+      "name": "quiz",
+      "description": "git diff のコード変更で復習するクイズ",
+      "version": "1.0.0",
+      "author": {
+        "name": "koikeasuka"
+      },
+      "source": "./skills/quiz",
+      "skills": [
+        "./"
+      ],
+      "category": "workflow",
+      "tags": [
+        "workflow",
+        "review",
+        "quiz",
+        "learning"
+      ]
     }
   ]
 }
